@@ -1,0 +1,298 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:1170px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u0 {
+  position:absolute;
+  left:49px;
+  top:1365px;
+}
+#u0_state0 {
+  position:relative;
+  left:0px;
+  top:0px;
+  background-image:none;
+}
+#u0_state0_content {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u1 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:498px;
+  height:310px;
+}
+#u1_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:498px;
+  height:310px;
+}
+#u0_state1 {
+  position:relative;
+  left:0px;
+  top:0px;
+  visibility:hidden;
+  background-image:none;
+}
+#u0_state1_content {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u2_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1170px;
+  height:2532px;
+}
+#u2 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1170px;
+  height:2532px;
+}
+#u3 {
+  position:absolute;
+  left:2px;
+  top:1258px;
+  width:1166px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u4_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:475px;
+  height:474px;
+}
+#u4 {
+  position:absolute;
+  left:618px;
+  top:1407px;
+  width:475px;
+  height:474px;
+}
+#u5 {
+  position:absolute;
+  left:2px;
+  top:229px;
+  width:471px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u6_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:474px;
+  height:219px;
+}
+#u6 {
+  position:absolute;
+  left:618px;
+  top:1662px;
+  width:474px;
+  height:219px;
+}
+#u7 {
+  position:absolute;
+  left:2px;
+  top:102px;
+  width:470px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u8_img {
+  position:absolute;
+  left:-10px;
+  top:-10px;
+  width:139px;
+  height:76px;
+}
+#u8 {
+  position:absolute;
+  left:801px;
+  top:1891px;
+  width:109px;
+  height:46px;
+  font-family:'微软雅黑';
+  font-weight:400;
+  font-style:normal;
+  font-size:36px;
+  color:#FFFFFF;
+  text-align:center;
+}
+#u9 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:109px;
+  white-space:nowrap;
+}
+#u10_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:30px;
+  height:30px;
+}
+#u10 {
+  position:absolute;
+  left:855px;
+  top:1447px;
+  width:30px;
+  height:30px;
+}
+#u11 {
+  position:absolute;
+  left:2px;
+  top:7px;
+  width:26px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u12_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:474px;
+  height:219px;
+}
+#u12 {
+  position:absolute;
+  left:618px;
+  top:1662px;
+  width:474px;
+  height:219px;
+}
+#u13 {
+  position:absolute;
+  left:2px;
+  top:102px;
+  width:470px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u14_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:21px;
+  height:41px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:36px;
+  color:#E3AA46;
+}
+#u14 {
+  position:absolute;
+  left:703px;
+  top:1448px;
+  width:21px;
+  height:41px;
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:36px;
+  color:#E3AA46;
+}
+#u15 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:21px;
+  white-space:nowrap;
+}
+#u16_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:30px;
+  height:30px;
+}
+#u16 {
+  position:absolute;
+  left:663px;
+  top:1453px;
+  width:30px;
+  height:30px;
+}
+#u17 {
+  position:absolute;
+  left:2px;
+  top:7px;
+  width:26px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u18_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:22px;
+  height:22px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:18px;
+  color:#E3AA46;
+}
+#u18 {
+  position:absolute;
+  left:667px;
+  top:1432px;
+  width:22px;
+  height:22px;
+  font-size:18px;
+  color:#E3AA46;
+}
+#u19 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:22px;
+  white-space:nowrap;
+}
+#u20 {
+  position:absolute;
+  left:618px;
+  top:1407px;
+  width:475px;
+  height:474px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
